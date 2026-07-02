@@ -50,7 +50,7 @@ syn keyword axonStructure class data deriving instance default where
 syn keyword axonTypedef type
 syn keyword axonNewtypedef newtype
 syn keyword axonTypeFam family
-syn keyword axonStatement mdo do case of let in
+syn keyword axonStatement mdo do case of let in yield return
 syn keyword axonConditional if then else
 
 " Not real keywords, but close.
